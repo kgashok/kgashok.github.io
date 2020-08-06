@@ -1,2 +1,2 @@
 language = "bash"
-run = ""
+run = "pip3 install -r requirements.txt"
