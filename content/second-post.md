@@ -17,10 +17,12 @@ author: Ashok B
   - https://medium.com/hackgenius 
 
 ### Blog Ideas
-![
+
+![img](https://files.gitter.im/581c97cbd73408ce4f339dc2/xQbH/Screenshot-2020-08-05-at-03.13.39.png)
+
 ![img][fiveideas]
 
 [fiveideas]: {static}/images/fiveBlogIdeas.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3Mzc0NjAzXX0=
+eyJoaXN0b3J5IjpbLTY1MTI1MTE2Nl19
 -->
