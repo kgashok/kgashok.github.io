@@ -6,7 +6,7 @@ author: Ashok B
 “...so people will reach out to you instead of the other way around.”
 
 ### Setup your own static website generator
-- https://bit.ly/oneThingPy 
+- [https://bit.ly/oneThingPy](https://bit.ly/oneThingPy) 
 - https://bit.ly/blogGithub 
 - https://bit.ly/blogArticlesPy - how to write a programming blog 
 
