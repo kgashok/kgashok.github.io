@@ -24,5 +24,5 @@ author: Ashok B
 
 [fiveideas]: {static}/images/fiveBlogIdeas.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTI1MTE2Nl19
+eyJoaXN0b3J5IjpbLTE4NjU4NjI5MTYsLTY1MTI1MTE2Nl19
 -->
