@@ -21,3 +21,6 @@ author: Ashok B
 ![img][fiveideas]
 
 [fiveideas]: {static}/images/fiveBlogIdeas.png
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5OTY4NDE5MzVdfQ==
+-->
